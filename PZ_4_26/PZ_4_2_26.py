@@ -11,7 +11,7 @@ def find_largest_K(N):
         total_sum += K
     return K, total_sum
 
-N = 323 # твое целое число N
+N = 23 # твое целое число N
 largest_K, sum_below_N = find_largest_K(N)
 print("Наибольшее K:", largest_K)
 print("Сумма до K:", sum_below_N)
