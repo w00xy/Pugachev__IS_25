@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c1d0648-a4fa-465a-ae07-2e84018cfe7e" name="Changes" comment="PZ 5 Tasks 1 and 2">
-      <change afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_6_26/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pugachev__IS_25.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pugachev__IS_25.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_11_2023_17_49_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_11_2023_17_49__Changes_.xml" beforeDir="false" />
+    <list default="true" id="7c1d0648-a4fa-465a-ae07-2e84018cfe7e" name="Changes" comment="PZ 6 | Tasks 1, 2, 3 | Report">
+      <change afterPath="$PROJECT_DIR$/PZ_7_26/PZ_7_26_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_7_26/PZ_7_26_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_7_26/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_4_26_/PZ_4_1_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_4_26_/PZ_4_2_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_4_26_/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_5_26/PZ_5_2_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_5_26/PZ_5_2_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_5_26/REPORTS/REPORT_PZ_5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +145,8 @@
       <workItem from="1702745340419" duration="29000" />
       <workItem from="1703088203023" duration="3232000" />
       <workItem from="1703178737935" duration="247000" />
-      <workItem from="1703178995683" duration="2415000" />
+      <workItem from="1703178995683" duration="2768000" />
+      <workItem from="1703182103319" duration="4569000" />
     </task>
     <task id="LOCAL-00001" summary="PZ4">
       <option name="closed" value="true" />
@@ -179,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701183231077</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PZ 6 | Tasks 1, 2, 3 | Report">
+      <option name="closed" value="true" />
+      <created>1703181597076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703181597076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,13 +193,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PZ4" />
     <MESSAGE value="PZ 5 Tasks 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="PZ 5 Tasks 1 and 2" />
+    <MESSAGE value="PZ 6 | Tasks 1, 2, 3 | Report" />
+    <option name="LAST_COMMIT_MESSAGE" value="PZ 6 | Tasks 1, 2, 3 | Report" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_5_1_26.coverage" NAME="PZ_5_1_26 Coverage Results" MODIFIED="1701182941752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_7_26_1.coverage" NAME="PZ_7_26_1 Coverage Results" MODIFIED="1703184981126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_1.coverage" NAME="PZ_6_26_1 Coverage Results" MODIFIED="1703180894681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_3.coverage" NAME="PZ_6_26_3 Coverage Results" MODIFIED="1703181380397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_7_26_2.coverage" NAME="PZ_7_26_2 Coverage Results" MODIFIED="1703186350933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_2_26.coverage" NAME="PZ_4_2_26 Coverage Results" MODIFIED="1701180731632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$.coverage" NAME="выфвыф Coverage Results" MODIFIED="1703184864912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_5_2_26.coverage" NAME="PZ_5_2_26 Coverage Results" MODIFIED="1701181820643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_2.coverage" NAME="PZ_6_26_2 Coverage Results" MODIFIED="1703181155123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_1_26.coverage" NAME="PZ_4_1_26 Coverage Results" MODIFIED="1703179303930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
