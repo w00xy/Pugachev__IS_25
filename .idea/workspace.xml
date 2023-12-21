@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c1d0648-a4fa-465a-ae07-2e84018cfe7e" name="Changes" comment="PZ 5 Tasks 1 and 2">
+      <change afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_6_26/PZ_6_26_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_6_26/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pugachev__IS_25.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pugachev__IS_25.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_11_2023_17_49_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_11_2023_17_49__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_4_26_/PZ_4_1_26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_4_26_/PZ_4_2_26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_4_26_/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_5_26/PZ_5_2_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_5_26/PZ_5_2_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_5_26/REPORTS/REPORT_PZ_5.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "w00xy"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;w00xy&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -46,28 +59,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/Django",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/codes/Pugachev__IS_25&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GitIgnore"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PZ_4_1_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pugachev__IS_25" />
@@ -115,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PZ_4_2_26" />
         <item itemvalue="Python.PZ_4_1_26" />
+        <item itemvalue="Python.PZ_4_2_26" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +146,14 @@
       <workItem from="1700939367181" duration="127000" />
       <workItem from="1700939503829" duration="176000" />
       <workItem from="1700939689865" duration="74000" />
-      <workItem from="1701179885293" duration="3017000" />
+      <workItem from="1701179885293" duration="3922000" />
+      <workItem from="1701184250350" duration="76000" />
+      <workItem from="1701195951052" duration="75000" />
+      <workItem from="1702732750527" duration="2835000" />
+      <workItem from="1702745340419" duration="29000" />
+      <workItem from="1703088203023" duration="3232000" />
+      <workItem from="1703178737935" duration="247000" />
+      <workItem from="1703178995683" duration="2415000" />
     </task>
     <task id="LOCAL-00001" summary="PZ4">
       <option name="closed" value="true" />
@@ -151,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701181912931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PZ 5 Tasks 1 and 2">
+      <option name="closed" value="true" />
+      <created>1701183231077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701183231077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,9 +195,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="PZ 5 Tasks 1 and 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_5_1_26.coverage" NAME="PZ_5_1_26 Coverage Results" MODIFIED="1701180915340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_5_1_26.coverage" NAME="PZ_5_1_26 Coverage Results" MODIFIED="1701182941752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_1.coverage" NAME="PZ_6_26_1 Coverage Results" MODIFIED="1703180894681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_3.coverage" NAME="PZ_6_26_3 Coverage Results" MODIFIED="1703181380397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_2_26.coverage" NAME="PZ_4_2_26 Coverage Results" MODIFIED="1701180731632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_5_2_26.coverage" NAME="PZ_5_2_26 Coverage Results" MODIFIED="1701181820643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5_26" />
-    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_1_26.coverage" NAME="PZ_4_1_26 Coverage Results" MODIFIED="1700923948468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_2.coverage" NAME="PZ_6_26_2 Coverage Results" MODIFIED="1703181155123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_1_26.coverage" NAME="PZ_4_1_26 Coverage Results" MODIFIED="1703179303930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
   </component>
 </project>
