@@ -15,5 +15,6 @@ for i in row[1:]:
 
 average = round(sum(dicta['средние температуры']) / len(dicta['средние температуры']), 1)
 minimal = min(dicta['средние температуры'])
+print(dicta)
 print(f'Средняя температура: {average}\nМинимальная температура: {minimal}')
 
