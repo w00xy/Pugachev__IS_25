@@ -9,7 +9,7 @@ allowed_values = list(range(-5, 5+1))
 allowed_values.remove(0)
 
 # can be anything in {-5, ..., 5} \ {0}:
-random_list = [random.choice(allowed_values) for i in range(1, random.randint(2, 5))]
+random_list = [random.choice(allowed_values) for i in range(1, random.randint(3, 8))]
 # random_list = [-2,4,3]
 
 # Функция с циклом для проверки созданного списка

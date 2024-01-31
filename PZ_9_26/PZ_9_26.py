@@ -13,7 +13,7 @@ dicta['средние температуры'] = []
 for i in row[1:]:
     dicta['средние температуры'].append(int(i))
 
-crednee = round(sum(dicta['средние температуры']) / len(dicta['средние температуры']), 1)
+average = round(sum(dicta['средние температуры']) / len(dicta['средние температуры']), 1)
 minimal = min(dicta['средние температуры'])
-print(f'Средняя температура: {crednee}\nМинимальная температура: {minimal}')
+print(f'Средняя температура: {average}\nМинимальная температура: {minimal}')
 
