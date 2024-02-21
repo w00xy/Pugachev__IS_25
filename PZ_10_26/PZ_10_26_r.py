@@ -11,6 +11,7 @@ galery = {"Чехов", "Тютчев", "Пушкин"}
 
 
 def all_books():
+
     all_books_set = magistr.union(domknigi, bookmarket, galery)
     return all_books_set
 
