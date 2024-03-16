@@ -1,0 +1,19 @@
+#  В матрице найти среднее арифметическое положительных элементов.
+from random import randint
+
+# Размеры матрицы
+rows = 3
+cols = 3
+
+matrix = [[randint(-3, 3) for i in range(cols)] for i in range(rows)]
+
+for row in matrix:
+    print(row)
+
+print('--------------')
+for row in matrix:
+    row[0] = row[0] ** 3
+
+# Выводим измененную матрицу
+for row in matrix:
+    print(row)
