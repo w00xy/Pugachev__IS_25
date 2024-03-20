@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c1d0648-a4fa-465a-ae07-2e84018cfe7e" name="Changes" comment="PZ_10 new">
-      <change afterPath="$PROJECT_DIR$/PZ_12_26/PZ_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_12_26/PZ_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_12_26/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_13_26/PZ_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_13_26/PZ_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_13_26/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_10_26/PZ_10_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_10_26/PZ_10_26_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_10_26/PZ_10_26_r.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/PZ_2_6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/PZ_3_26_1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/PZ_3_26_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/PZ_4_1_26.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/PZ_4_2_26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_12_26/PZ_12_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_12_26/PZ_12_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +59,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/codes/Бруда/web/Практическая работа №2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/codes/Pugachev__IS_25/PZ_13_26&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,7 +74,12 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\codes\Pugachev__IS_25\PZ_13_26" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PZ_6_26_2">
     <configuration name="PZ_10_26_r" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pugachev__IS_25" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +102,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PZ_12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pugachev__IS_25" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_12_26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_12_26/PZ_12_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PZ_12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pugachev__IS_25" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_12_26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_12_26/PZ_12_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PZ_6_26_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pugachev__IS_25" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,50 +160,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_6_26/PZ_6_26_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PZ_7_26_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pugachev__IS_25" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_7_26" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_7_26/PZ_7_26_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PZ_7_26_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pugachev__IS_25" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_7_26" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_7_26/PZ_7_26_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PZ_12_1" />
+        <item itemvalue="Python.PZ_12_2" />
         <item itemvalue="Python.PZ_10_26_r" />
         <item itemvalue="Python.PZ_6_26_2" />
         <item itemvalue="Python.PZ_9_26" />
-        <item itemvalue="Python.PZ_7_26_2" />
-        <item itemvalue="Python.PZ_7_26_1" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +231,11 @@
       <workItem from="1707548975450" duration="2493000" />
       <workItem from="1707561071579" duration="427000" />
       <workItem from="1708506229240" duration="866000" />
+      <workItem from="1708507892429" duration="659000" />
+      <workItem from="1709112468373" duration="918000" />
+      <workItem from="1709115268052" duration="3184000" />
+      <workItem from="1709711216468" duration="2989000" />
+      <workItem from="1709974680664" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="PZ4">
       <option name="closed" value="true" />
@@ -319,10 +323,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_7_26_1.coverage" NAME="PZ_7_26_1 Coverage Results" MODIFIED="1703231015702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7_26" />
-    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_12_2.coverage" NAME="PZ_12_2 Coverage Results" MODIFIED="1708507085614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_12_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_12_2.coverage" NAME="PZ_12_2 Coverage Results" MODIFIED="1709116088046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_12_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_1.coverage" NAME="PZ_6_26_1 Coverage Results" MODIFIED="1703230909816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_9_26.coverage" NAME="PZ_9_26 Coverage Results" MODIFIED="1706699101108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_9_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_3.coverage" NAME="PZ_6_26_3 Coverage Results" MODIFIED="1703230991614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_13_1.coverage" NAME="PZ_13_1 Coverage Results" MODIFIED="1709714035431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_2_26.coverage" NAME="PZ_4_2_26 Coverage Results" MODIFIED="1701180731632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_5_2_26.coverage" NAME="PZ_5_2_26 Coverage Results" MODIFIED="1701181820643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_4_1_26.coverage" NAME="PZ_4_1_26 Coverage Results" MODIFIED="1703179303930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4_26_" />
@@ -330,7 +335,8 @@
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_10_26_r.coverage" NAME="PZ_10_26_r Coverage Results" MODIFIED="1707549928018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_10_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_7_26_2.coverage" NAME="PZ_7_26_2 Coverage Results" MODIFIED="1705150558307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$.coverage" NAME="выфвыф Coverage Results" MODIFIED="1703184864912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7_26" />
-    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_12_1.coverage" NAME="PZ_12_1 Coverage Results" MODIFIED="1708506686728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_12_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_12_1.coverage" NAME="PZ_12_1 Coverage Results" MODIFIED="1709711305642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_12_26" />
+    <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_13_2.coverage" NAME="PZ_13_2 Coverage Results" MODIFIED="1709714129461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_6_26_2.coverage" NAME="PZ_6_26_2 Coverage Results" MODIFIED="1707549441750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6_26" />
     <SUITE FILE_PATH="coverage/Pugachev__IS_25$PZ_10_26.coverage" NAME="PZ_10_26 Coverage Results" MODIFIED="1707549475324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_10_26" />
   </component>
