@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Автокликер с счетчиком</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="click-counter-score disable">0</div>
+        <div class="clicker-button disable" onclick="incrementCounter()"><span class="text-button">Notcoin</span></div>
+    </div>
+
+
+    <script>
+        let clicks = 0;
+
+        function incrementCounter() {
+            clicks++;
+            document.querySelector('.click-counter-score').textContent = clicks;
+        }
+    </script>
+</body>
+</html>

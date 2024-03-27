@@ -1,0 +1,83 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background-color: grey;
+}
+
+.disable {
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.clicker-button {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: #ffc101;
+    color: white;
+    font-size: 20px;
+    line-height: 300px;
+    justify-content: center;
+    cursor: pointer;
+    position: absolute;
+    top: 400px;
+    box-shadow: 0 0 0 2px #292929, 0 0.625em 0 0 #5c5c5c;
+    transform: translate3d(0, 0.75em, -1em);
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.clicker-button:hover {
+  background: #ff9d0b;
+  transform: translate(0, 0.25em);
+}
+.clicker-button::before {
+  box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
+  transform: translate3d(0, 0.5em, -1em);
+}
+.clicker-button:active {
+  background: #ffe9e9;
+  transform: translate(0em, 0.75em);
+}
+.clicker-button:active::before {
+  box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+  transform: translate3d(0, 0, -1em);
+}
+
+.text-button {
+    position: absolute;
+    left: 45px;
+    font-weight: bold;
+    color: #ffdf7f;
+    font-size: 54px
+}
+
+.click-counter {
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+}
+
+.click-counter-score {
+    color: orange;
+    position:absolute;
+    top: 100px;
+    font-size: 50px;
+    font-family: Arial;
+}
+
+.container {
+    background-color: #444444;
+    width: 700px;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+
+}
