@@ -31,10 +31,10 @@ people = [
     (10, 'Ирина Андреевна Волкова', 'Светлана Ивановна Иванова', 'Серьги', 'Бриллиант', 22000)
 ]
 
-cursor.executemany('''
- INSERT INTO Product (id, clientFullName, masterFullName, type, material, price)
- VALUES (?, ?, ?, ?, ?, ?)
-''', people)
+# cursor.executemany('''
+#  INSERT INTO Product (id, clientFullName, masterFullName, type, material, price)
+#  VALUES (?, ?, ?, ?, ?, ?)
+# ''', people)
 
 # Запросы
 cursor.execute('SELECT * FROM Product')
